@@ -2,7 +2,7 @@ import streamlit as st
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
-from scipy import stats
+#from scipy import stats
 import requests
 import json
 from matplotlib.ticker import MaxNLocator
